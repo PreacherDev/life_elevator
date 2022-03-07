@@ -5,7 +5,7 @@
 Script by Life Scripts
 code by Alpha#7721 and Preacher#6392
 
-Do not copy or release it without our permission!!
+**Do not copy or release it without our permission!!**
 
 If you have any questions about the script or if there is any bug/issue join our discord and open a ticket: https://discord.gg/rFAhWWUPuX
 If the link expires add Preacher#6392 or Alpha#7721 on discord.
