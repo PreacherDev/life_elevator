@@ -18,4 +18,3 @@ Any suggestions? Use our suggestion channel.
 
 Thank you and have fun!
 
-#LifeScripts
